@@ -22,5 +22,5 @@ Glaub mir, die Sonne kommt bald wieder"
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PPChristopHerzlieb/count.svg" />
+  <img src="https://profile-counter.glitch.me/cherzlieb/count.svg" />
 </p>
