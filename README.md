@@ -4,7 +4,7 @@
 # Hallo, ich bin Christoph! 👋
 
 ## Über mich
-Ich bin ein Programmierer mit Erfahrung in einer Vielzahl von Programmiersprachen und Tools, darunter C#, VB.NET, HTML, PHP, Python, Flask, TailwindCSS, SQL und mehr.
+Ich bin ein Programmierer mit Erfahrung in einer Vielzahl von Programmiersprachen, Auszeichnungssprachen, Scriptsprachen und Tools, darunter HTML, PHP, Python, Flask, TailwindCSS, SQL.
 
 ## Zitat
 "Meine Hoffnung klaut mir niemand
