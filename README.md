@@ -4,7 +4,13 @@
 # Hallo, ich bin Christoph! 👋
 
 ## Über mich
-Ich bin ein Programmierer mit Erfahrung in einer Vielzahl von Programmiersprachen, Auszeichnungssprachen, Scriptsprachen und Tools, darunter HTML, PHP, Python, Flask, TailwindCSS, SQL.
+Ich habe eine Ausbildung zum Elektroniker für Betriebstechnik gemacht, die Kenntnisse habe ich in den folgenden Jahren in der SPS-Technik gut nutzen können.
+Im Laufe der Zeit habe ich immer mehr mit Datenbanken, Servertechnik und Webentwicklung zu tun bekommen.
+
+Im Jahr 2020 dachte ich mir, ich bilde mich noch mal weiter und habe die Weiterbildung zum staatl. gepr. Techniker Maschinentechnik gestartet, welche ich im Jahr 2024 voraussichtlich abschließen werde.
+
+Nebenbei merkte ich immer mehr, dass ich Spaß an der Webentwicklung habe und bin in meiner Freizeit je nach Möglichkeit, mich dort am Weiterbilden und sammelte 
+Erfahrung in einer Vielzahl von Programmiersprachen, Auszeichnungssprachen, Scriptsprachen und Tools, darunter HTML, PHP, Python, Flask, TailwindCSS, SQL.
 
 ## Zitat
 "Meine Hoffnung klaut mir niemand
