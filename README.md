@@ -19,7 +19,7 @@ Auch wenn die Schatten für dich sind wie Brüder
 Glaub mir, die Sonne kommt bald wieder"
 - SANTOS & Kontra K, "Die Sonne"
 
-
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/cherzlieb/count.svg" />
@@ -28,7 +28,7 @@ Glaub mir, die Sonne kommt bald wieder"
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/cherzlieb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </p>
-
+-->
 <p align="center">
   <strong>Skills</strong>
   </br>
@@ -47,7 +47,7 @@ Glaub mir, die Sonne kommt bald wieder"
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   </a>
-  </br>
+  <!--</br>-->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
